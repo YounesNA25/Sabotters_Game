@@ -1,6 +1,6 @@
 
-from CARDs import *
-from Game_Manager import *
+from Tools.CARDs import *
+from Game_manager.Game_Manager import *
 
 import random
 

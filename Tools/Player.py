@@ -1,5 +1,5 @@
 
-from CARDs import *
+from Tools.CARDs import *
 
 import random
 

@@ -1,5 +1,5 @@
 
-from Player import * 
+from Tools.Player import * 
 import random
 
 

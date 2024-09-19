@@ -1,8 +1,8 @@
 
-from GRID import *
-from CARDs import *
-from Player import *
-from PlayerBot import *
+from Tools.GRID import *
+from Tools.CARDs import *
+from Tools.Player import *
+from Tools.PlayerBot import *
 
 import sys
 import time
